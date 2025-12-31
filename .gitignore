@@ -1,0 +1,17 @@
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Datasets
+data/
+dataset/
+datasets/
+
+# Outputs
+checkpoints/
+runs/
+logs/
+outputs/
